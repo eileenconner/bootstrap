@@ -1,0 +1,27 @@
+.navbar-default {
+    background-color: #00ff00;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+p {
+    font-family: Comic, serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: serif;
+    color: red;
+}
+
+h5 {
+    font-weight:bold;
+    color: #00ff00;
+}
+
+td {
+    font-style: oblique;
+    font-size: 90%;
+}
